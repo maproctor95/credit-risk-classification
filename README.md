@@ -9,7 +9,7 @@
 
 ## **Results**
 
-###Logistic Regression Model fitted with Imbalanced Data: 
+### Logistic Regression Model fitted with Imbalanced Data: 
 
 * The model fitted with imbalanced data has a higher possibility of making these mistakes: 
 
